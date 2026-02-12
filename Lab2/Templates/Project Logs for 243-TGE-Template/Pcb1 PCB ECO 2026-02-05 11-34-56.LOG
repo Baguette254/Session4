@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=U_Interface_Mikrobus Member=R3
+Removed Member From Class: ClassName=Page_Tete Member=R10
+Removed Member From Class: ClassName=Page_Tete Member=R11
+Removed Member From Class: ClassName=Page_Tete Member=R13
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add Pin To Net: Unknown Pin: Pin C2A-1
+Add Pin To Net: Unknown Pin: Pin C2A-2
+Add Pin To Net: Unknown Pin: Pin C2B-1
+Add Pin To Net: Unknown Pin: Pin C2B-2
+Add Pin To Net: Unknown Pin: Pin C3A-1
+Add Pin To Net: Unknown Pin: Pin C3A-2
+Add Pin To Net: Unknown Pin: Pin C3B-1
+Add Pin To Net: Unknown Pin: Pin C3B-2
+Add Pin To Net: Unknown Pin: Pin C4A-1
+Add Pin To Net: Unknown Pin: Pin C4A-2
+Add Pin To Net: Unknown Pin: Pin C4B-1
+Add Pin To Net: Unknown Pin: Pin C4B-2
+Add Pin To Net: Unknown Pin: Pin C5A-1
+Add Pin To Net: Unknown Pin: Pin C5A-2
+Add Pin To Net: Unknown Pin: Pin C5B-1
+Add Pin To Net: Unknown Pin: Pin C5B-2
+Add Pin To Net: Unknown Pin: Pin C6A-1
+Add Pin To Net: Unknown Pin: Pin C6A-2
+Add Pin To Net: Unknown Pin: Pin C6B-1
+Add Pin To Net: Unknown Pin: Pin C6B-2
+Add Pin To Net: Unknown Pin: Pin C7A-1
+Add Pin To Net: Unknown Pin: Pin C7A-2
+Add Pin To Net: Unknown Pin: Pin C7B-1
+Add Pin To Net: Unknown Pin: Pin C7B-2
+Add Class Member: Failed to add class member : Component C2A (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C2B (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C3A (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C3B (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4A (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4B (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5A (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5B (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6A (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6B (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C7A (C7) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C7B (C7) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=Page_Tete Member=Component R1 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R2 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R4 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R9 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R12 Res 2k2 1% 0402
