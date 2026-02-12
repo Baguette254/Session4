@@ -332,16 +332,16 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=NomDeLetudiant
-Value=Le nom de l'étudiant
+Name=Revision
+Value=La Revision
 
 [Parameter2]
 Name=NomDeProjet
 Value=Le nom de mon Projet
 
 [Parameter3]
-Name=Revision
-Value=La Revision
+Name=NomDeLetudiant
+Value=Le nom de l'étudiant
 
 [Configuration1]
 Name=Sources
