@@ -1,0 +1,263 @@
+Add component: Footprint Not Found C_EL_D10MM-L11MM
+Add component: Footprint Not Found C_1608[0603]
+Add component: Footprint Not Found C_1608[0603]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Added Component: Designator=J1(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2A(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2B(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MB1(mikroBUS - Large)
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Added Component: Designator=U1A(U_WQFN50P300X300-16)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DRV8234RTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1B(U_WQFN50P300X300-16)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DRV8234RTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2A-1
+Add Pin To Net: Unknown Pin: Pin C2B-1
+Add Pin To Net: Unknown Pin: Pin C4A-1
+Add Pin To Net: Unknown Pin: Pin C4A-2
+Add Pin To Net: Unknown Pin: Pin C4B-1
+Add Pin To Net: Unknown Pin: Pin C4B-2
+Add Pin To Net: Unknown Pin: Pin C5A-1
+Add Pin To Net: Unknown Pin: Pin C5A-2
+Add Pin To Net: Unknown Pin: Pin C5B-1
+Add Pin To Net: Unknown Pin: Pin C5B-2
+Add Pin To Net: Unknown Pin: Pin C6A-1
+Add Pin To Net: Unknown Pin: Pin C6A-2
+Add Pin To Net: Unknown Pin: Pin C6B-1
+Add Pin To Net: Unknown Pin: Pin C6B-2
+Add Pin To Net: Unknown Pin: Pin C7A-1
+Add Pin To Net: Unknown Pin: Pin C7A-2
+Add Pin To Net: Unknown Pin: Pin C7B-1
+Add Pin To Net: Unknown Pin: Pin C7B-2
+Add Pin To Net: Unknown Pin: Pin C8A-1
+Add Pin To Net: Unknown Pin: Pin C8A-2
+Add Pin To Net: Unknown Pin: Pin C8B-1
+Add Pin To Net: Unknown Pin: Pin C8B-2
+Add Pin To Net: Unknown Pin: Pin C9A-2
+Add Pin To Net: Unknown Pin: Pin C9B-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VM Pin=J1-2
+Added Pin To Net: NetName=NetMB1_2 Pin=MB1-2
+Added Pin To Net: NetName=NetMB1_3 Pin=MB1-3
+Added Pin To Net: NetName=NetMB1_6 Pin=MB1-6
+Added Pin To Net: NetName=VCC_3.3V Pin=MB1-7
+Added Pin To Net: NetName=GND Pin=MB1-8
+Added Pin To Net: NetName=GND Pin=MB1-9
+Added Pin To Net: NetName=VCC_5V Pin=MB1-10
+Added Pin To Net: NetName=NetMB1_11 Pin=MB1-11
+Added Pin To Net: NetName=NetMB1_12 Pin=MB1-12
+Added Pin To Net: NetName=NetMB1_15 Pin=MB1-15
+Added Pin To Net: NetName=NetMB1_16 Pin=MB1-16
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5A-1
+Add Pin To Net: Unknown Pin: Pin R5B-1
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Added Pin To Net: NetName=NetMB1_3 Pin=U1A-3
+Added Pin To Net: NetName=NetMB1_15 Pin=U1A-4
+Added Pin To Net: NetName=VM Pin=U1A-5
+Added Pin To Net: NetName=GND Pin=U1A-7
+Added Pin To Net: NetName=NetR6_2 Pin=U1A-9
+Added Pin To Net: NetName=NetR7_2 Pin=U1A-10
+Added Pin To Net: NetName=NetMB1_2 Pin=U1A-11
+Added Pin To Net: NetName=NetMB1_6 Pin=U1A-12
+Added Pin To Net: NetName=NetMB1_16 Pin=U1A-13
+Added Pin To Net: NetName=NetMB1_11 Pin=U1A-14
+Added Pin To Net: NetName=NetMB1_12 Pin=U1A-15
+Added Pin To Net: NetName=GND Pin=U1A-17
+Added Pin To Net: NetName=NetMB1_15 Pin=U1B-4
+Added Pin To Net: NetName=VM Pin=U1B-5
+Added Pin To Net: NetName=GND Pin=U1B-7
+Added Pin To Net: NetName=NetR9_2 Pin=U1B-9
+Added Pin To Net: NetName=NetR8_1 Pin=U1B-10
+Added Pin To Net: NetName=NetR13_1 Pin=U1B-11
+Added Pin To Net: NetName=NetMB1_11 Pin=U1B-14
+Added Pin To Net: NetName=NetMB1_12 Pin=U1B-15
+Added Pin To Net: NetName=GND Pin=U1B-17
+Added Pin To Net: NetName=NetC2A_2 Pin=MB1-1
+Added Pin To Net: NetName=NetC2A_2 Pin=U1A-1
+Added Net: Name=NetC2A_2
+Added Pin To Net: NetName=NetC2B_2 Pin=U1B-1
+Added Net: Name=NetC2B_2
+Added Pin To Net: NetName=NetC9A_1 Pin=U1A-2
+Added Pin To Net: NetName=NetC9A_1 Pin=U1A-16
+Added Net: Name=NetC9A_1
+Added Pin To Net: NetName=NetC9B_1 Pin=U1B-2
+Added Pin To Net: NetName=NetC9B_1 Pin=U1B-16
+Added Net: Name=NetC9B_1
+Added Pin To Net: NetName=NetU1B_3 Pin=U1B-3
+Added Net: Name=NetU1B_3
+Added Pin To Net: NetName=NetU1B_12 Pin=U1B-12
+Added Net: Name=NetU1B_12
+Added Pin To Net: NetName=NetU1B_13 Pin=U1B-13
+Added Net: Name=NetU1B_13
+Added Pin To Net: NetName=OUT1A Pin=J2A-1
+Added Pin To Net: NetName=OUT1A Pin=U1A-6
+Added Net: Name=OUT1A
+Added Pin To Net: NetName=OUT1B Pin=J2B-1
+Added Pin To Net: NetName=OUT1B Pin=U1B-6
+Added Net: Name=OUT1B
+Added Pin To Net: NetName=OUT2A Pin=J2A-2
+Added Pin To Net: NetName=OUT2A Pin=U1A-8
+Added Net: Name=OUT2A
+Added Pin To Net: NetName=OUT2B Pin=J2B-2
+Added Pin To Net: NetName=OUT2B Pin=U1B-8
+Added Net: Name=OUT2B
+Add Class Member: Failed to add class member : Component C1 CAP EL 100uF 63V 10MM
+Add Class Member: Failed to add class member : Component C2A (C2) CAP CER 10nF 50V 0603
+Add Class Member: Failed to add class member : Component C2B (C2) CAP CER 10nF 50V 0603
+Add Class Member: Failed to add class member : Component C4A (C4) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C4B (C4) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C5A (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5B (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6A (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6B (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C7A (C7) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C7B (C7) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C8A (C8) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C8B (C8) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C9A (C9) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C9B (C9) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Connecteur Member=Component J1 DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component J2A (J2) DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component J2B (J2) DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component MB1 mikroBUS
+Add Class Member: Failed to add class member : Component R1 Res 10k 1% 0402
+Add Class Member: Failed to add class member : Component R2 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R3 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R4 Res 10k 1% 0402
+Add Class Member: Failed to add class member : Component R5A (R5) Res 7k5 1% 0402
+Add Class Member: Failed to add class member : Component R5B (R5) Res 7k5 1% 0402
+Add Class Member: Failed to add class member : Component R6 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R7 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R8 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R9 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R11 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R12 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R13 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R14 Res 2k2 1% 0402
+Add Class Member: Failed to add class member : Component R15 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component U1A (U1) DRV8234RTER
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component U1B (U1) DRV8234RTER
+Added Room: Name=U_Motor_Drive_A
+Added Room: Name=U_Motor_Drive_B

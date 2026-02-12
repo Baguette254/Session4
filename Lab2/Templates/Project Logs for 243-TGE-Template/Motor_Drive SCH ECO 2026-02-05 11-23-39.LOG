@@ -1,0 +1,8 @@
+Change Component Parameter Library Name in C2 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C4 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C5 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C6 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C7 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C8 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in C9 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
+Change Component Parameter Library Name in R5 Old=TEP_243-Altium_DBLib.DbLib New=TEP_243-Altium_RLC-Lib.SCHLIB
