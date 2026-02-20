@@ -1,0 +1,107 @@
+Removed Member From Class: ClassName=U_Interface_Mikrobus Member=R?
+Change Component Designator: OldDesignator=R1 NewDesignator=R10
+Change Component Designator: OldDesignator=R2 NewDesignator=R11
+Change Component Designator: OldDesignator=R3 NewDesignator=R12
+Change Component Designator: OldDesignator=R4 NewDesignator=R13
+Change Component Designator: OldDesignator=R5A NewDesignator=R14A
+Change Component Designator: OldDesignator=R5B NewDesignator=R14B
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R2
+Change Component Designator: OldDesignator=R12 NewDesignator=R3
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Change Component Designator: OldDesignator=R14 NewDesignator=R6
+Change Component Designator: OldDesignator=R15 NewDesignator=R9
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Added Component: Designator=C8A(C_1005[0402])
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8B(C_1005[0402])
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C2A-1
+Add Pin To Net: Unknown Pin: Pin C2A-2
+Add Pin To Net: Unknown Pin: Pin C2B-1
+Add Pin To Net: Unknown Pin: Pin C2B-2
+Add Pin To Net: Unknown Pin: Pin C3A-1
+Add Pin To Net: Unknown Pin: Pin C3A-2
+Add Pin To Net: Unknown Pin: Pin C3B-1
+Add Pin To Net: Unknown Pin: Pin C3B-2
+Add Pin To Net: Unknown Pin: Pin C4A-1
+Add Pin To Net: Unknown Pin: Pin C4A-2
+Add Pin To Net: Unknown Pin: Pin C4B-1
+Add Pin To Net: Unknown Pin: Pin C4B-2
+Add Pin To Net: Unknown Pin: Pin C5A-1
+Add Pin To Net: Unknown Pin: Pin C5A-2
+Add Pin To Net: Unknown Pin: Pin C5B-1
+Add Pin To Net: Unknown Pin: Pin C5B-2
+Add Pin To Net: Unknown Pin: Pin C6A-1
+Add Pin To Net: Unknown Pin: Pin C6A-2
+Add Pin To Net: Unknown Pin: Pin C6B-1
+Add Pin To Net: Unknown Pin: Pin C6B-2
+Add Pin To Net: Unknown Pin: Pin C7A-2
+Add Pin To Net: Unknown Pin: Pin C7B-2
+Added Pin To Net: NetName=GND Pin=C8A-1
+Added Pin To Net: NetName=NetC2A_2 Pin=C8A-2
+Added Pin To Net: NetName=GND Pin=C8B-1
+Change Net Name : Old Net Name=NetC2A_2 New Net Name=NetC8A_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR1_1
+Added Pin To Net: NetName=NetC7A_1 Pin=U1A-2
+Added Pin To Net: NetName=NetC7A_1 Pin=U1A-16
+Added Net: Name=NetC7A_1
+Added Pin To Net: NetName=NetC7B_1 Pin=U1B-2
+Added Pin To Net: NetName=NetC7B_1 Pin=U1B-16
+Added Net: Name=NetC7B_1
+Added Pin To Net: NetName=NetC8B_2 Pin=C8B-2
+Added Pin To Net: NetName=NetC8B_2 Pin=R14B-2
+Added Pin To Net: NetName=NetC8B_2 Pin=U1B-1
+Added Net: Name=NetC8B_2
+Add Class Member: Failed to add class member : Component C2A (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C2B (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C3A (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C3B (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4A (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4B (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5A (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5B (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6A (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6B (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C7A (C7) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C7B (C7) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C8A (C8) CAP CER 10nF 50V X7R 0402
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C8B (C8) CAP CER 10nF 50V X7R 0402

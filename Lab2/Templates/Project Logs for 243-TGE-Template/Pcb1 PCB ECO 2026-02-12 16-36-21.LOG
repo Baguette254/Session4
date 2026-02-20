@@ -1,0 +1,486 @@
+Added Component: Designator=C1(C_EL_D10MM-L11MM)
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Added Component: Designator=C8A(C_1005[0402])
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8B(C_1005[0402])
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "CAP017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CC0402KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2A(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2B(CONN_TERM_BLOCK_2POS_3mm5)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Dorabo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DB301V-3.5-2P-GN-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C695629"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MB1(mikroBUS - Large)
+Added Component: Designator=R1(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DNP"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R_1005[0402])
+Add component (AddParameter): Name = "LibRef"; Value = "RES003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60490"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R_1005[0402])
+Add component (AddParameter): Name = "Code CEGEP"; Value = "RES2.2KSM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibRef"; Value = "RES008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-072K2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C114762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-2.20KLRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_1005[0402])
+Add component (AddParameter): Name = "LibRef"; Value = "RES003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C60490"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R14A(R_1005[0402])
+Add component (AddParameter): Name = "LibRef"; Value = "RES027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-077k5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C137934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7k5"; VariantName = "[No Variations]"
+Added Component: Designator=R14B(R_1005[0402])
+Add component (AddParameter): Name = "LibRef"; Value = "RES027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0402FR-077k5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Working Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Puissance"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C137934"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "7k5"; VariantName = "[No Variations]"
+Added Component: Designator=U1A(U_WQFN50P300X300-16)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DRV8234RTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1B(U_WQFN50P300X300-16)
+Add component (AddParameter): Name = "Code CEGEP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Localisation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DRV8234RTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C8A-1
+Added Pin To Net: NetName=GND Pin=C8B-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=MB1-8
+Added Pin To Net: NetName=GND Pin=MB1-9
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R14A-1
+Added Pin To Net: NetName=GND Pin=R14B-1
+Added Pin To Net: NetName=GND Pin=U1A-7
+Added Pin To Net: NetName=GND Pin=U1A-17
+Added Pin To Net: NetName=GND Pin=U1B-7
+Added Pin To Net: NetName=GND Pin=U1B-17
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC7A_1 Pin=U1A-2
+Added Pin To Net: NetName=NetC7A_1 Pin=U1A-16
+Added Net: Name=NetC7A_1
+Added Pin To Net: NetName=NetC7B_1 Pin=U1B-2
+Added Pin To Net: NetName=NetC7B_1 Pin=U1B-16
+Added Net: Name=NetC7B_1
+Added Pin To Net: NetName=NetC8A_2 Pin=C8A-2
+Added Pin To Net: NetName=NetC8A_2 Pin=MB1-1
+Added Pin To Net: NetName=NetC8A_2 Pin=R14A-2
+Added Pin To Net: NetName=NetC8A_2 Pin=U1A-1
+Added Net: Name=NetC8A_2
+Added Pin To Net: NetName=NetC8B_2 Pin=C8B-2
+Added Pin To Net: NetName=NetC8B_2 Pin=R14B-2
+Added Pin To Net: NetName=NetC8B_2 Pin=U1B-1
+Added Net: Name=NetC8B_2
+Added Pin To Net: NetName=NetMB1_2 Pin=MB1-2
+Added Pin To Net: NetName=NetMB1_2 Pin=U1A-11
+Added Net: Name=NetMB1_2
+Added Pin To Net: NetName=NetMB1_3 Pin=MB1-3
+Added Pin To Net: NetName=NetMB1_3 Pin=R10-1
+Added Pin To Net: NetName=NetMB1_3 Pin=U1A-3
+Added Net: Name=NetMB1_3
+Added Pin To Net: NetName=NetMB1_6 Pin=MB1-6
+Added Pin To Net: NetName=NetMB1_6 Pin=U1A-12
+Added Net: Name=NetMB1_6
+Added Pin To Net: NetName=NetMB1_11 Pin=MB1-11
+Added Pin To Net: NetName=NetMB1_11 Pin=R12-1
+Added Pin To Net: NetName=NetMB1_11 Pin=U1A-14
+Added Pin To Net: NetName=NetMB1_11 Pin=U1B-14
+Added Net: Name=NetMB1_11
+Added Pin To Net: NetName=NetMB1_12 Pin=MB1-12
+Added Pin To Net: NetName=NetMB1_12 Pin=R11-1
+Added Pin To Net: NetName=NetMB1_12 Pin=U1A-15
+Added Pin To Net: NetName=NetMB1_12 Pin=U1B-15
+Added Net: Name=NetMB1_12
+Added Pin To Net: NetName=NetMB1_15 Pin=MB1-15
+Added Pin To Net: NetName=NetMB1_15 Pin=R13-1
+Added Pin To Net: NetName=NetMB1_15 Pin=U1A-4
+Added Pin To Net: NetName=NetMB1_15 Pin=U1B-4
+Added Net: Name=NetMB1_15
+Added Pin To Net: NetName=NetMB1_16 Pin=MB1-16
+Added Pin To Net: NetName=NetMB1_16 Pin=U1A-13
+Added Net: Name=NetMB1_16
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1B-11
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R4-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1A-9
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=R5-2
+Added Pin To Net: NetName=NetR3_1 Pin=U1A-10
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R8-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1B-9
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=NetR7_1 Pin=U1B-10
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetU1B_3 Pin=U1B-3
+Added Net: Name=NetU1B_3
+Added Pin To Net: NetName=NetU1B_12 Pin=U1B-12
+Added Net: Name=NetU1B_12
+Added Pin To Net: NetName=NetU1B_13 Pin=U1B-13
+Added Net: Name=NetU1B_13
+Added Pin To Net: NetName=OUT1A Pin=J2A-1
+Added Pin To Net: NetName=OUT1A Pin=U1A-6
+Added Net: Name=OUT1A
+Added Pin To Net: NetName=OUT1B Pin=J2B-1
+Added Pin To Net: NetName=OUT1B Pin=U1B-6
+Added Net: Name=OUT1B
+Added Pin To Net: NetName=OUT2A Pin=J2A-2
+Added Pin To Net: NetName=OUT2A Pin=U1A-8
+Added Net: Name=OUT2A
+Added Pin To Net: NetName=OUT2B Pin=J2B-2
+Added Pin To Net: NetName=OUT2B Pin=U1B-8
+Added Net: Name=OUT2B
+Added Pin To Net: NetName=VCC_3.3V Pin=MB1-7
+Added Pin To Net: NetName=VCC_3.3V Pin=R1-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R2-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R3-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R6-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R7-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R10-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R13-2
+Added Net: Name=VCC_3.3V
+Added Pin To Net: NetName=VCC_5V Pin=MB1-10
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VM Pin=C1-2
+Added Pin To Net: NetName=VM Pin=J1-2
+Added Pin To Net: NetName=VM Pin=U1A-5
+Added Pin To Net: NetName=VM Pin=U1B-5
+Added Net: Name=VM
+Added Member To Class: ClassName=U_Connecteur Member=Component C1 =Comment
+Add Class Member: Failed to add class member : Component C2A (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C2B (C2) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C3A (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C3B (C3) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4A (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C4B (C4) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5A (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C5B (C5) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6A (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C6B (C6) CAP CER 10uF 10V X7R 0805
+Add Class Member: Failed to add class member : Component C7A (C7) CAP CER 100nF 50V 0805
+Add Class Member: Failed to add class member : Component C7B (C7) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C8A (C8) CAP CER 10nF 50V X7R 0402
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C8B (C8) CAP CER 10nF 50V X7R 0402
+Added Member To Class: ClassName=U_Connecteur Member=Component J1 DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component J2A (J2) DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component J2B (J2) DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component MB1 mikroBUS
+Added Member To Class: ClassName=Page_Tete Member=Component R1 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R2 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R3 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R4 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R5 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R6 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R7 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R8 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R9 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R10 Res 10k 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R11 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R12 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R13 Res 10k 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component R14A (R14) Res 7k5 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component R14B (R14) Res 7k5 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component U1A (U1) DRV8234RTER
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component U1B (U1) DRV8234RTER
+Added Room: Name=U_Motor_Drive_A
+Added Room: Name=U_Motor_Drive_B
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
