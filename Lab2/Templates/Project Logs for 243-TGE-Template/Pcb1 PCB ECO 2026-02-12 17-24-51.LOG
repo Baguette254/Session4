@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=R?A NewDesignator=r2000A
+Change Component Designator: OldDesignator=R?B NewDesignator=r2000B
+Change Class Name : Old Net Name=Room Definition1 New Net Name=U_Motor_Drive_A
+Change Class Name : Old Net Name=Room Definition2 New Net Name=U_Motor_Drive_B
+Added Member To Class: ClassName=U_Connecteur Member=Component C1 =Comment
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C2A (C2) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C2B (C2) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C3A (C3) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C3B (C3) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C4A (C4) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C4B (C4) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C5A (C5) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C5B (C5) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C6A (C6) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C6B (C6) CAP CER 10uF 10V X7R 0805
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component C7A (C7) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component C7B (C7) CAP CER 100nF 50V 0805
+Added Member To Class: ClassName=U_Connecteur Member=Component J1 DB301V-3.5-2P-GN-S
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component MB1 mikroBUS
+Added Member To Class: ClassName=Page_Tete Member=Component R1 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R2 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R3 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R4 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R5 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R6 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R7 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R8 Res 2k2 1% 0402
+Added Member To Class: ClassName=Page_Tete Member=Component R9 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R10 Res 10k 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R11 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R12 Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Interface_Mikrobus Member=Component R13 Res 10k 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_A Member=Component r2000A (r2000) Res 2k2 1% 0402
+Added Member To Class: ClassName=U_Motor_Drive_B Member=Component r2000B (r2000) Res 2k2 1% 0402
+Change Room Name: Old Name=RoomDefinition New Name=U_Motor_Drive_B
+Change Room Scope: Old Scope=InComponentClass('Room Definition1') New Scope=InComponentClass('U_Motor_Drive_B')
+Added Room: Name=U_Motor_Drive_A

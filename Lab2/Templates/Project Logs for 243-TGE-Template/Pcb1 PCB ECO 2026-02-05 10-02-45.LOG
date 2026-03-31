@@ -1,0 +1,73 @@
+Add component: Footprint Not Found C_EL_D10MM-L11MM
+Add component: Footprint Not Found C_1608[0603]
+Add component: Footprint Not Found C_1608[0603]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found C_2012[0805]
+Add component: Footprint Not Found CONN_TERM_BLOCK_2POS_3mm5
+Add component: Footprint Not Found CONN_TERM_BLOCK_2POS_3mm5
+Add component: Footprint Not Found CONN_TERM_BLOCK_2POS_3mm5
+Add component: Footprint Not Found mikroBUS - Large
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found R_1005[0402]
+Add component: Footprint Not Found U_WQFN50P300X300-16
+Add component: Footprint Not Found U_WQFN50P300X300-16
+Added Net: Name=GND
+Added Net: Name=NetC2_U_Motor_Drive_A_2
+Added Net: Name=NetC2_U_Motor_Drive_B_2
+Added Net: Name=NetC9_U_Motor_Drive_A_1
+Added Net: Name=NetC9_U_Motor_Drive_B_1
+Added Net: Name=NetMB1_2
+Added Net: Name=NetMB1_3
+Added Net: Name=NetMB1_6
+Added Net: Name=NetMB1_11
+Added Net: Name=NetMB1_12
+Added Net: Name=NetMB1_15
+Added Net: Name=NetMB1_16
+Added Net: Name=NetR6_2
+Added Net: Name=NetR7_2
+Added Net: Name=NetR8_1
+Added Net: Name=NetR9_2
+Added Net: Name=NetR13_1
+Added Net: Name=NetU1_U_Motor_Drive_B_3
+Added Net: Name=NetU1_U_Motor_Drive_B_12
+Added Net: Name=NetU1_U_Motor_Drive_B_13
+Added Net: Name=OUT1_U_Motor_Drive_A
+Added Net: Name=OUT1_U_Motor_Drive_B
+Added Net: Name=OUT2_U_Motor_Drive_A
+Added Net: Name=OUT2_U_Motor_Drive_B
+Added Net: Name=VCC_3.3V
+Added Net: Name=VCC_5V
+Added Net: Name=VM
+Added Class: Name=Page_Tete
+Added Class: Name=U_Connecteur
+Added Class: Name=U_Interface_Mikrobus
+Added Class: Name=U_Motor_Drive_A
+Added Class: Name=U_Motor_Drive_B
+Added Class: Name=Motor_Drive
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
